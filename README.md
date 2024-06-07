@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=utviklern&label=Profile%20views&color=0e75b6&style=flat" alt="utviklern" /> </p>
 
-- 🌱 I’m currently learning **Front-end development**
+- 🌱 I’m currently learning: **Front-end development** at **Noroff**
 
-- ⚡ Fun fact **I got a dog**
+- ⚡ Fun fact: **I got a dog**
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
