@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **Front-end development** at **Noroff**
 
-- ⚡ Fun fact: **I got a dog**
+- ⚡ Fun fact: **i've got a dog and a cat**
 
 
 <p align="left">
